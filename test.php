@@ -9,7 +9,7 @@
   <body>
     <div>
       <header>
-        <h1>TEST TITLE</h1>
+        <h1>TEST TITLE R</h1>
         <pre><a href="./index.php">LOG OUT</a></pre>
       </header>
       <main>        
