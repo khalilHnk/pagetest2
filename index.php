@@ -1,3 +1,4 @@
+<?php $arr = 0; ?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -10,6 +11,7 @@
     <div>
       <header>
         <h1>PAGE TITLE</h1>
+        <pre><?php echo $arr; ?></pre>
       </header>
       <main>
         <article>
