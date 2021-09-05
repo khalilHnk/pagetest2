@@ -3,6 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initail-scale=1.0">
+    <link rel="stylesheet" href="./styler.css">
     <title>TEST PAGE</title>
   </head>
   <body>
